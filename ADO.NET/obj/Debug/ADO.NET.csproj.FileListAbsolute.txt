@@ -1,0 +1,10 @@
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe.config
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\bin\Debug\ADO.NET.exe
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\bin\Debug\ADO.NET.pdb
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Form1.resources
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.Properties.Resources.resources
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.exe
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\ADO.NET\ADO.NET\obj\Debug\ADO.NET.pdb
